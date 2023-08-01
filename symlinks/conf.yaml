@@ -20,7 +20,7 @@
     ~/.config/Code/User/settings.json: editors/code/settings.json
     ~/.config/Code/User/keybindings.json: editors/code/keybindings.json
     ~/.config/Code/User/snippets: editors/code/snippets
-/Library/Application Support/JetBrains/WebStorm2023.1/options
+~/.Library/Application Support/JetBrains/WebStorm2023.1/options
 :editors/Application/settingsSync.xml
 
 
