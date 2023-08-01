@@ -22,6 +22,9 @@ bash <(wget -qO- https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/restorer)
 Using curl
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/CodelyTV/dotly/HEAD/restorer)
+
+ESTA DESCARGADO EL FICHERO DE CONFIGURACION EN EL DRIVE EN:
+Daniel.caballo.tirado@gmail.com
 ```
 
 You need to know your GitHub username, repository and install ssh key if your repository is private.
