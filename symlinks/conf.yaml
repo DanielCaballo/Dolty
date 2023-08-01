@@ -20,3 +20,14 @@
     ~/.config/Code/User/settings.json: editors/code/settings.json
     ~/.config/Code/User/keybindings.json: editors/code/keybindings.json
     ~/.config/Code/User/snippets: editors/code/snippets
+    ~/Library/Application/User/settings.json 
+:editors/Application/settings.json
+~/Library/Application/User/keybindings.json 
+:editors/Application/settings.json
+~/Library/Application/User/snippets 
+:editors/Application/User/snippets.json
+
+
+    
+
+
