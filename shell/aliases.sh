@@ -7,8 +7,8 @@ alias ll="ls -l"
 alias la="ls -la"
 alias ~="cd ~"
 alias dotfiles='cd $DOTFILES_PATH'
-alias ycd = "yarn clean && yarn develop"
-alias ybs = "yarn build && yarn serve"
+alias ycd='yarn clean && yarn develop'
+alias ybs="yarn build && yarn serve"
 
 # Git
 alias gaa="git add -A"
